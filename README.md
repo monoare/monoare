@@ -21,20 +21,14 @@
 ## Languages and Tools:
 - Frontend
  <p>
-  <a  style="margin-right: 2px" href="https://skillicons.dev">
+ 
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="html" />  
-  </a>
-	 <a href="https://skillicons.dev">
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="css" />  
-  </a>
-	 <a href="https://skillicons.dev">
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="js" />  
-  </a>
-   </a>
-	 <a href="https://skillicons.dev">
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="js" />  
-  </a>
 
-[![My Skills]( https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg)](https://skillicons.dev)
+    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="css" />  
+
+    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="js" />  
+
+    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" />  
+
 
 </p>

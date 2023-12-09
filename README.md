@@ -22,6 +22,6 @@
 - Frontend
  <p align="center">
   <a href="https://skillicons.dev">
-    <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />  
+    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="html" />  
   </a>
 </p>

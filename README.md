@@ -21,7 +21,8 @@
 - Vigor Vista
 
 <p>The project, tentatively named "Vigor Vista," is a web application designed to cater to fitness enthusiasts, providing a platform for various fitness-related activities, community engagement, and personalized user experiences.</p>
--Features
+
+- Features
 
 **Role-Based Dashboard Navigation:**
 Different dashboard views for admin, trainer, and member roles.

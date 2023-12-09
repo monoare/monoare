@@ -30,4 +30,7 @@
 	 <a href="https://skillicons.dev">
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="js" />  
   </a>
+
+
+  https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg
 </p>

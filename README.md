@@ -20,26 +20,8 @@
 
 ## Languages and Tools:
 - Frontend
-<p>
-<a  style="margin-right: 2px" href="https://skillicons.dev">
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="html" />  
-</a>
-	
-<a  style="margin-right: 2px" href="https://skillicons.dev">	
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="css" />  
-</a> 
-
-<a  style="margin-right: 2px" href="https://skillicons.dev">	
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="tailwind" />  
-</a> 
-
-<a  style="margin-right: 2px" href="https://skillicons.dev">
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="js" />  
- </a>
- 
-<a  style="margin-right: 2px" href="https://skillicons.dev">
-    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" />  
- </a>
- 
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  </a>
 </p>

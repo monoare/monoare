@@ -13,6 +13,13 @@
 
 
 ## GitHub Stats:
+<div align="center">
+    <br>
+    <a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+        <img src="header.svg" width="1200" height="400" alt="Click to see the source" style="margin-bottom: 20px;">
+    </a>
+    <br>
+</div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=default)
 

@@ -31,3 +31,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
   </a>
 </p>
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+  </a>
+</p>

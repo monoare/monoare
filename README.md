@@ -25,3 +25,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
   </a>
 </p>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  </a>
+</p>

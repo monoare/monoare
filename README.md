@@ -8,10 +8,10 @@
 </div>
 
 
-<h1>About Me</h1>
+<h2 align="left">About Me</h2>
 <p>Hello, I'm <strong>Monoare Hossain</strong>, a passionate MERN Stack Developer with a keen eye for creating dynamic and user-centric web applications. Currently on a journey to become a <strong></strong>full-stack web developer, I bring enthusiasm and dedication to every project. My expertise lies in <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React.js</strong>, and <strong>Node.js</strong>, and I am eager to expand my skills across the entire web development spectrum. Let's build something amazing together!</p>
 
-## GitHub Stats:
+<h3 align="left">GitHub Stats:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats)
 

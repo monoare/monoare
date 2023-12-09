@@ -20,4 +20,9 @@
 
 ## Languages and Tools:
 - Frontend
-  [![My Skills](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+	  
+  </a>
+</p>

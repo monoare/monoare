@@ -19,7 +19,7 @@
 
 <h3 align="left">📁 My Projects:</h3>
 
-- Vigor Vista
+<h4>Project-1: Vigor Vista</h4>
 
 <p>The project, tentatively named "Vigor Vista," is a web application designed to cater to fitness enthusiasts, providing a platform for various fitness-related activities, community engagement, and personalized user experiences.</p>
 

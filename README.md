@@ -16,7 +16,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=darcula)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">👨‍💻 Languages and Tools:</h3>
 
  - Frontend
 <p align="left">

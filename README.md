@@ -19,18 +19,21 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=default)
 
 <h3 align="left">Languages and Tools:</h3>
+
  - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
   </a>
 </p>
+
  - Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
   </a>
 </p>
+
  - Tools
 <p align="left">
   <a href="https://skillicons.dev">

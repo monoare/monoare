@@ -21,7 +21,7 @@
 ## Languages and Tools:
 - Frontend
  <p>
-  <a  style="margin-right: 2px;" href="https://skillicons.dev">
+  <a  style="margin-right: 2px" href="https://skillicons.dev">
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="html" />  
   </a>
 	 <a href="https://skillicons.dev">

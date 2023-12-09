@@ -18,7 +18,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=default)
 
-## Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -34,6 +34,6 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
   </a>
 </p>

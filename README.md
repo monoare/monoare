@@ -24,4 +24,10 @@
   <a href="https://skillicons.dev">
     <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="html" />  
   </a>
+	 <a href="https://skillicons.dev">
+    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="css" />  
+  </a>
+	 <a href="https://skillicons.dev">
+    <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="js" />  
+  </a>
 </p>

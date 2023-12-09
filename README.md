@@ -13,9 +13,9 @@
 
 
 ## GitHub Stats:
-<div align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats)
-</div>
+
+  <center> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats) </center> 
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=default)
 

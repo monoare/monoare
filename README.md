@@ -17,8 +17,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=darcula)
 
 
-<h3 align="left">📁 My Project:</h3>
-<a href="https://github.com/monoare/vigor-vista-client">Vigor Vista</a>
+<h3 align="left">📁 My Projects:</h3>
+- Vigor Vista
+
+<p>The project, tentatively named "Vigor Vista," is a web application designed to cater to fitness enthusiasts, providing a platform for various fitness-related activities, community engagement, and personalized user experiences.</p>
 
 
 

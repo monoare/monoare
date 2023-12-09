@@ -20,4 +20,4 @@
 
 ## Languages and Tools:
 - Frontend
-  [![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm)](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg)https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg](https://skillicons.dev)
+  [![My Skills](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg)

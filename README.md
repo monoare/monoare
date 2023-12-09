@@ -9,8 +9,7 @@
 
 
 <h1>About Me</h1>
-<p>Hello, I'm <strong>Monoare Hossain</strong>, a passionate MERN Stack Developer with a keen eye for creating dynamic and user-centric web applications. Currently on a journey to become a full-stack web developer, I bring enthusiasm and dedication to every project. My expertise lies in MongoDB, Express.js, React.js, and Node.js, and I am eager to expand my skills across the entire web development spectrum. Let's build something amazing together!</p>
-
+<p>Hello, I'm <strong>Monoare Hossain</strong>, a passionate MERN Stack Developer with a keen eye for creating dynamic and user-centric web applications. Currently on a journey to become a <strong></strong>full-stack web developer, I bring enthusiasm and dedication to every project. My expertise lies in <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React.js</strong>, and <strong>Node.js</strong>, and I am eager to expand my skills across the entire web development spectrum. Let's build something amazing together!</p>
 
 ## GitHub Stats:
 

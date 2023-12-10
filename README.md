@@ -82,7 +82,7 @@
 
 <p>Best Shop is a Fashion E-commerce platform featuring secure user authentication, a detailed product catalog, dark mode toggling, a convenient shopping cart, and responsive design. With brand collections, dynamic data fetching, and user-friendly alerts, it serves as a versatile foundation for fashion enthusiasts and developers. The project's potential for future enhancements positions it as a valuable tool within the fashion industry.</p>
 
-<p>Features</p>
+<p><strong>Features</strong></p>
 
 <p><em>User Authentication:</em> Enables secure registration and login for personalized experiences.</p>
 <p><em>Product Catalog:</em> Displays products with essential details for easy browsing.</p>

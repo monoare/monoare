@@ -20,9 +20,7 @@
     <a/>
 </h2>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api?username=monoare&show_icons=true&theme=dark" alt="monoare" />
-</p>
+
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai" alt="monoare" />
 </p>
@@ -86,11 +84,11 @@
 
 <strong>Features<strong>
 
-<p><em>User Authentication:</em> Enables secure registration and login for personalized experiences.</p>
-<p><em>Product Catalog:</em> Displays products with essential details for easy browsing.</p>
-<p><em>Dark Mode Toggle:</em> Offers a switch between light and dark themes for user preference.</p>
-<p><em>Shopping Cart:</em> Allows users to manage selected items and costs conveniently.</p>
-<p><em>Responsive Design:</em> Ensures a consistent, user-friendly experience across devices.</p>
+<p>User Authentication: Enables secure registration and login for personalized experiences.</p>
+<p>Product Catalog: Displays products with essential details for easy browsing.</p>
+<p>Dark Mode Toggle: Offers a switch between light and dark themes for user preference.</p>
+<p>Shopping Cart: Allows users to manage selected items and costs conveniently.</p>
+<p>Responsive Design:Ensures a consistent, user-friendly experience across devices.</p>
 
 <a href="https://bestshop-eae65.web.app"><em><strong>Live Link</strong></em></a>
 

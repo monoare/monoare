@@ -94,19 +94,17 @@
 
 <div align="center">
     
-<h4>Project-3: Best Shop</h4>
+<h4 style="text-decoration: underline;">Project-3: Best Shop</h4>
 
 <p>Best Shop is a Fashion E-commerce platform featuring secure user authentication, a detailed product catalog, dark mode toggling, a convenient shopping cart, and responsive design. With brand collections, dynamic data fetching, and user-friendly alerts, it serves as a versatile foundation for fashion enthusiasts and developers. The project's potential for future enhancements positions it as a valuable tool within the fashion industry.</p>
 
 <strong>Features<strong>
 
-<div>
 <p><em>User Authentication:</em> Enables secure registration and login for personalized experiences.</p>
 <p><em>Product Catalog:</em> Displays products with essential details for easy browsing.</p>
 <p><em>Dark Mode Toggle:</em> Offers a switch between light and dark themes for user preference.</p>
 <p><em>Shopping Cart:</em> Allows users to manage selected items and costs conveniently.</p>
 <p><em>Responsive Design:</em> Ensures a consistent, user-friendly experience across devices.</p>
-</div>
 
 <a href="https://bestshop-eae65.web.app"><em><strong>Live Link</strong></em></a>
 

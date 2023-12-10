@@ -53,64 +53,56 @@
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210715023-0f03194b-fc67-46e8-af2f-209816fa820b.png" width="45" />   
     <a/>
 </h2>
-        
+
+<!----------------------------------- Project One------------------------------------>
+
 <div align="center">
 <h4>Project-1: Vigor Vista</h4>
 
 <p>The project, tentatively named "Vigor Vista," is a web application designed to cater to fitness enthusiasts, providing a platform for various fitness-related activities, community engagement, and personalized user experiences.</p>
 
-<strong>Features:</strong>
+<strong>Features</strong>
 <p><em>Role-Based Dashboard Navigation:</em> Different dashboard views for admin, trainer, and member roles.</p>
-
 <p><em>User Authentication and Registration:</em> Sign up, log in, and social login options for users.</p>
-
 <p><em>Content Management for Admin:</em> Manage subscribers, trainers, balance, and handle trainer applications.</p>
-
-<p><em>Trainer-Specific Functionality</em> Manage slots, members, add new forums, and create new classes.</p>
-
+<p><em>Trainer-Specific Functionality:</em> Manage slots, members, add new forums, and create new classes.</p>
 <p><em>Member-Specific Features:</em> View activity logs, adjust profile settings, and access recommended classes.</p>
-
-<a href="https://vigor-vista.web.app"><em>Live Link:</em> </a>
+<a href="https://vigor-vista.web.app"><em><strong>Live Link</strong></em> </a>
 
 </div>
----
 
+<!----------------------------------- Project Two------------------------------------>
+
+<div align="center">
 <h4>Project-2: FreelanceHub</h4>
 
 <p>FreelanceHub is a dynamic platform connecting freelancers and employers. Users can effortlessly post and apply for jobs, benefit from secure authentication, and manage their activities through a user-friendly dashboard. Categorized job listings and a transparent booking system streamline the freelancing process, creating a seamless and efficient experience for both freelancers and employers.</p>
 
-**Features:**
-_Quick Job Interaction:_ Post and apply for jobs effortlessly, fostering efficient connections between freelancers and employers.
+<strong>Features</strong>
+<p><em>Quick Job Interaction:</em> Post and apply for jobs effortlessly, fostering efficient connections between freelancers and employers.</p>
+<p><em>Secure Authentication:</em> Robust user authentication with JWT tokens ensures a safe and trustworthy freelancing experience.</p>
+<p><em>User-Friendly Dashboard:</em> Manage posted jobs, track applications, and review bidding history through a convenient and personalized dashboard.</p>
+<p><em>Categorized Job Listings:</em> Jobs are categorized for easy filtering, simplifying the job search process for freelancers.</p>
+<p><em>Transparent Booking System:</em> Freelancers can book jobs, and employers can manage and update job details, ensuring transparent communication.</p>
+<a href="https://freelancehub-45daa.web.app"><em><strong>Live Link</strong></em></a>
+</div>
 
-_Secure Authentication:_ Robust user authentication with JWT tokens ensures a safe and trustworthy freelancing experience.
+<!----------------------------------- Project Three------------------------------------>
 
-_User-Friendly Dashboard:_ Manage posted jobs, track applications, and review bidding history through a convenient and personalized dashboard.
-
-_Categorized Job Listings:_ Jobs are categorized for easy filtering, simplifying the job search process for freelancers.
-
-_Transparent Booking System:_ Freelancers can book jobs, and employers can manage and update job details, ensuring transparent communication.
-
-**Live Link:** https://freelancehub-45daa.web.app
-
----
-
+<div align="center">
 <h4>Project-3: Best Shop</h4>
 
 <p>Best Shop is a Fashion E-commerce platform featuring secure user authentication, a detailed product catalog, dark mode toggling, a convenient shopping cart, and responsive design. With brand collections, dynamic data fetching, and user-friendly alerts, it serves as a versatile foundation for fashion enthusiasts and developers. The project's potential for future enhancements positions it as a valuable tool within the fashion industry.</p>
 
-**Features:**
+<strong>Features<strong>
 
-_User Authentication_ Enables secure registration and login for personalized experiences.
-
-_Product Catalog:_ Displays products with essential details for easy browsing.
-
-_Dark Mode Toggle:_ Offers a switch between light and dark themes for user preference.
-
-_Shopping Cart:_ Allows users to manage selected items and costs conveniently.
-
-_Responsive Design:_ Ensures a consistent, user-friendly experience across devices.
-
-**Live Link:** https://bestshop-eae65.web.app
+<p><em>User Authentication:</em> Enables secure registration and login for personalized experiences.</p>
+<p><em>Product Catalog:</em> Displays products with essential details for easy browsing.</p>
+<p><em>Dark Mode Toggle:</em> Offers a switch between light and dark themes for user preference.</p>
+<p><em>Shopping Cart:</em> Allows users to manage selected items and costs conveniently.</p>
+<p><em>Responsive Design:</em> Ensures a consistent, user-friendly experience across devices.</p>
+<a href="https://bestshop-eae65.web.app"><em><strong>Live Link</strong></em></a>
+</div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">

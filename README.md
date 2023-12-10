@@ -9,7 +9,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=darcula)
 
 
-<h3 align="left">📁 My Projects:</h3>
+<h2 align="left">📁 My Projects:</h2>
 
 <h4>Project-1: Vigor Vista</h4>
 
@@ -27,7 +27,7 @@ _Trainer-Specific Functionality:_ Manage slots, members, add new forums, and cre
 _Member-Specific Features:_ View activity logs, adjust profile settings, and access recommended classes.
 
 **Live Link:** https://vigor-vista.web.app
-
+______
 <h4>Project-2: FreelanceHub</h4>
 
 <p>FreelanceHub is a dynamic platform connecting freelancers and employers. Users can effortlessly post and apply for jobs, benefit from secure authentication, and manage their activities through a user-friendly dashboard. Categorized job listings and a transparent booking system streamline the freelancing process, creating a seamless and efficient experience for both freelancers and employers.</p>
@@ -44,7 +44,7 @@ _Categorized Job Listings:_ Jobs are categorized for easy filtering, simplifying
 _Transparent Booking System:_ Freelancers can book jobs, and employers can manage and update job details, ensuring transparent communication.
 
 **Live Link:** https://freelancehub-45daa.web.app
-
+_______
 <h4>Project-3: Best Shop</h4>
 
 <p>Best Shop is a Fashion E-commerce platform featuring secure user authentication, a detailed product catalog, dark mode toggling, a convenient shopping cart, and responsive design. With brand collections, dynamic data fetching, and user-friendly alerts, it serves as a versatile foundation for fashion enthusiasts and developers. The project's potential for future enhancements positions it as a valuable tool within the fashion industry.</p>
@@ -63,7 +63,7 @@ _Responsive Design:_ Ensures a consistent, user-friendly experience across devic
 
 **Live Link:** https://bestshop-eae65.web.app
 
-<h3 align="left">👨‍💻 Languages and Tools:</h3>
+<h2 align="left">👨‍💻 Languages and Tools:</h2>
 
  - Frontend
 <p align="left">

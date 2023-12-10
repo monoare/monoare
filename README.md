@@ -53,24 +53,26 @@
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210715023-0f03194b-fc67-46e8-af2f-209816fa820b.png" width="45" />   
     <a/>
 </h2>
-
+        
+<div align="center">
 <h4>Project-1: Vigor Vista</h4>
 
 <p>The project, tentatively named "Vigor Vista," is a web application designed to cater to fitness enthusiasts, providing a platform for various fitness-related activities, community engagement, and personalized user experiences.</p>
 
-<p style={font: bold}>Features</p>
-_Role-Based Dashboard Navigation:_ Different dashboard views for admin, trainer, and member roles.
+<strong>Features:</strong>
+<p><em>Role-Based Dashboard Navigation:</em> Different dashboard views for admin, trainer, and member roles.</p>
 
-_User Authentication and Registration:_ Sign up, log in, and social login options for users.
+<p><em>User Authentication and Registration:</em> Sign up, log in, and social login options for users.</p>
 
-_Content Management for Admin:_ Manage subscribers, trainers, balance, and handle trainer applications.
+<p><em>Content Management for Admin:</em> Manage subscribers, trainers, balance, and handle trainer applications.</p>
 
-_Trainer-Specific Functionality:_ Manage slots, members, add new forums, and create new classes.
+<p><em>Trainer-Specific Functionality</em> Manage slots, members, add new forums, and create new classes.</p>
 
-_Member-Specific Features:_ View activity logs, adjust profile settings, and access recommended classes.
+<p><em>Member-Specific Features:</em> View activity logs, adjust profile settings, and access recommended classes.</p>
 
-**Live Link:** https://vigor-vista.web.app
+<p><em>Live Link:</em> https://vigor-vista.web.app</p>
 
+</div>
 ---
 
 <h4>Project-2: FreelanceHub</h4>

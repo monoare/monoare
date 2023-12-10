@@ -31,7 +31,7 @@
 </h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api?username=monoare2&show_icons=true&theme=dark" alt="monoare" />
+    <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api?username=monoare&show_icons=true&theme=dark" alt="monoare" />
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=dark" alt="monoare" />

@@ -63,7 +63,7 @@
 
 <strong>Features</strong>
 
-<p><em>Role-Based Dashboard Navigation:</em> Different dashboard views for admin, trainer, and member roles.</p>
+<em>Role-Based Dashboard Navigation:</em> <p>Different dashboard views for admin, trainer, and member roles.</p>
 <p><em>User Authentication and Registration:</em> Sign up, log in, and social login options for users.</p>
 <p><em>Content Management for Admin:</em> Manage subscribers, trainers, balance, and handle trainer applications.</p>
 <p><em>Trainer-Specific Functionality:</em> Manage slots, members, add new forums, and create new classes.</p>

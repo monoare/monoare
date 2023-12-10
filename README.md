@@ -1,6 +1,4 @@
-<div align="center">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+<div align="center">	
 			<style>
 				@keyframes rotate {
 					0% {
@@ -85,9 +83,7 @@
 				<h1>FONT END DEVELOPER</h1>
 				<p>MD. MONOARE HOSSAIN</p>
 				<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-			</div>	
-		</div>
-	</foreignObject>
+			</div>
 </div>
 
 

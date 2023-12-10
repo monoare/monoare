@@ -117,21 +117,21 @@
 </h2>
  
 <div align="center">
-    <p>Frontend</p>
+    <p><strong>Frontend</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
   </a>
 </div>
 
 <div align="center">
-    <p>Backend</p>
+    <p><strong>Backend</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
   </a>
 </div>
 
 <div align="center">
-    <p>Tools</p>
+    <p><strong>Tools</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
   </a>

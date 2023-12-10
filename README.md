@@ -94,7 +94,7 @@
 
 <div align="center">
     
-<h4 style="text-decoration: underline;">Project-3: Best Shop</h4>
+<h4 style="color: red;">Project-3: Best Shop</h4>
 
 <p>Best Shop is a Fashion E-commerce platform featuring secure user authentication, a detailed product catalog, dark mode toggling, a convenient shopping cart, and responsive design. With brand collections, dynamic data fetching, and user-friendly alerts, it serves as a versatile foundation for fashion enthusiasts and developers. The project's potential for future enhancements positions it as a valuable tool within the fashion industry.</p>
 

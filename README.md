@@ -1,4 +1,4 @@
-<div align="center">	
+
 			<style>
 				@keyframes rotate {
 					0% {
@@ -84,7 +84,7 @@
 				<p>MD. MONOARE HOSSAIN</p>
 				<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 			</div>
-</div>
+
 
 
 <h2 align="left">✍🏻 About Me</h2>

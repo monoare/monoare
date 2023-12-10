@@ -1,5 +1,9 @@
+<!----------------------------------- Heading Section ------------------------------------>
+<p align="center">
 ![Header](./github-header-image.png)
+</p>
 
+<!----------------------------------- About Section ------------------------------------>
 <h2 align="left">✍🏻 About Me</h2>
 
 <p style="text-align: justify">Hello, I'm <strong>Monoare Hossain</strong>, a passionate MERN Stack Developer with a keen eye for creating dynamic and user-centric web applications. Currently on a journey to become a <strong></strong>full-stack web developer, I bring enthusiasm and dedication to every project. My expertise lies in <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React.js</strong>, and <strong>Node.js</strong>, and I am eager to expand my skills across the entire web development spectrum. Let's build something amazing together!</p>
@@ -80,7 +84,13 @@ _Responsive Design:_ Ensures a consistent, user-friendly experience across devic
 
 **Live Link:** https://bestshop-eae65.web.app
 
-<h2 align="left">👨‍💻 Languages and Tools:</h2>
+<!----------------------------------- Tech Stack Section ------------------------------------>
+<h2 align="center">
+    My Tech Stack
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
+    <a/>
+</h2>
 
  - Frontend
 <p align="left">

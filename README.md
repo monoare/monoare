@@ -10,20 +10,6 @@
 
 <p style="text-align: justify">Hello, I'm <strong>Monoare Hossain</strong>, a passionate MERN Stack Developer with a keen eye for creating dynamic and user-centric web applications. Currently on a journey to become a <strong></strong>full-stack web developer, I bring enthusiasm and dedication to every project. My expertise lies in <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React.js</strong>, and <strong>Node.js</strong>, and I am eager to expand my skills across the entire web development spectrum. Let's build something amazing together!</p>
 
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2 align="center">
-    Connect with me
-    <a>
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716966-d30ec997-ad2d-488e-9406-b7305bb3a72e.png" width="30" />
-    <a/>
-</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/sumitsharma002/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sumitsharma002/" />
-    </a>
-</p>
-<br>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
@@ -109,6 +95,20 @@
 <a href="https://bestshop-eae65.web.app"><em><strong>Live Link</strong></em></a>
 
 </div>
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2 align="center">
+    Connect with me
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716966-d30ec997-ad2d-488e-9406-b7305bb3a72e.png" width="30" />
+    <a/>
+</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/sumitsharma002/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/sumitsharma002/" />
+    </a>
+</p>
+<br>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">

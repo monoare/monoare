@@ -45,9 +45,6 @@
 </p>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=darcula)
-
-
 <!----------------------------------- Project Section ------------------------------------>
 
 <h2 align="center">
@@ -121,19 +118,19 @@ _Responsive Design:_ Ensures a consistent, user-friendly experience across devic
     <a/>
 </h2>
  
-<p align="center">
+<div align="center">
     <p>Frontend</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
     <p>Backend</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
   </a>
-</p>
+</div>
 
 <div align="center">
     <p>Tools</p>

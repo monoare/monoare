@@ -100,11 +100,13 @@
 
 <strong>Features<strong>
 
+<div>
 <p><em>User Authentication:</em> Enables secure registration and login for personalized experiences.</p>
 <p><em>Product Catalog:</em> Displays products with essential details for easy browsing.</p>
 <p><em>Dark Mode Toggle:</em> Offers a switch between light and dark themes for user preference.</p>
 <p><em>Shopping Cart:</em> Allows users to manage selected items and costs conveniently.</p>
 <p><em>Responsive Design:</em> Ensures a consistent, user-friendly experience across devices.</p>
+</div>
 
 <a href="https://bestshop-eae65.web.app"><em><strong>Live Link</strong></em></a>
 

@@ -21,7 +21,14 @@
 </p>
 <br>
 
-<h2 align="left">📈 GitHub Stats:</h2>
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2 align="center">
+    My GitHub Stats
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
+    <a/>
+</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monoare&theme=darcula)
 
@@ -91,23 +98,23 @@ _Responsive Design:_ Ensures a consistent, user-friendly experience across devic
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
     <a/>
 </h2>
-
- - Frontend
-<p align="left">
+ 
+<p align="center">
+    <p>Frontend</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
   </a>
 </p>
 
- - Backend
-<p align="left">
+<p align="center">
+    <p>Backend</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
   </a>
 </p>
 
- - Tools
-<p align="left">
+<p align="center">
+    <p>Tools</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
   </a>

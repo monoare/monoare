@@ -34,7 +34,7 @@
     <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api?username=monoare&show_icons=true&theme=dark" alt="monoare" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=dark" alt="monoare" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=monoare&theme=monokai" alt="monoare" />
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=monoare&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="monoare" />

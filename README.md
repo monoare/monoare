@@ -1,4 +1,4 @@
-
+<head>
 			<style>
 				@keyframes rotate {
 					0% {
@@ -79,6 +79,7 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
+   </head>
 			<div class="container">
 				<h1>FONT END DEVELOPER</h1>
 				<p>MD. MONOARE HOSSAIN</p>

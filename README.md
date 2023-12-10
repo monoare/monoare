@@ -75,7 +75,7 @@
 <!----------------------------------- Project Two------------------------------------>
 
 <div align="center">
-<h4><mark>Project-2: FreelanceHub</mark></h4>
+<mark>Project-2: FreelanceHub</mark>
 
 <p>FreelanceHub is a dynamic platform connecting freelancers and employers. Users can effortlessly post and apply for jobs, benefit from secure authentication, and manage their activities through a user-friendly dashboard. Categorized job listings and a transparent booking system streamline the freelancing process, creating a seamless and efficient experience for both freelancers and employers.</p>
 

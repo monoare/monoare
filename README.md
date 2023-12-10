@@ -79,14 +79,14 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-   </head>
+  
 			<div class="container">
 				<h1>FONT END DEVELOPER</h1>
 				<p>MD. MONOARE HOSSAIN</p>
 				<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 			</div>
 
-
+ </head>
 
 <h2 align="left">✍🏻 About Me</h2>
 

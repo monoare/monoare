@@ -1,5 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
+    <img src="/github-header-image.png"/>
 ![Header](./github-header-image.png)
 </p>
 

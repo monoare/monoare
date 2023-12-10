@@ -1,33 +1,4 @@
-<div style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    width: 100%;
-    height: 400px;
-    background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-    background-size: 600% 400%;
-    animation: gradientBackground 10s ease infinite;
-    border-radius: 10px;
-    color: white;
-    text-align: center;">
-    <h1 style="font-size: 50px;
-        line-height: 1.3;
-        letter-spacing: 5px;
-        text-transform: uppercase;
-        text-shadow:
-            0 1px 0 #efefef,
-            0 2px 0 #efefef,
-            0 3px 0 #efefef,
-            0 4px 0 #efefef,
-            0 12px 5px rgba(0, 0, 0, 0.1);
-        animation: rotate ease-in-out 1s infinite alternate;">FONT END DEVELOPER</h1>
-    <p style="font-size: 20px;
-        text-shadow: 0 1px 0 #efefef;
-        animation: fadeIn 5s ease 0s normal forwards 1;">MD. MONOARE HOSSAIN</p>
-    <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-</div>
+![Header](./your-header-image-name.png)
 
 <h2 align="left">✍🏻 About Me</h2>
 

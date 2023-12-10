@@ -70,7 +70,7 @@
 
 <p><em>Member-Specific Features:</em> View activity logs, adjust profile settings, and access recommended classes.</p>
 
-<p><em>Live Link:</em> https://vigor-vista.web.app</p>
+<a href="https://vigor-vista.web.app"><em>Live Link:</em> </a>
 
 </div>
 ---

@@ -100,7 +100,7 @@
 
 <strong>Features<strong>
 
-<p style="color:blue"><em>User Authentication:</em> Enables secure registration and login for personalized experiences.</p>
+<p><em>User Authentication:</em> Enables secure registration and login for personalized experiences.</p>
 <p><em>Product Catalog:</em> Displays products with essential details for easy browsing.</p>
 <p><em>Dark Mode Toggle:</em> Offers a switch between light and dark themes for user preference.</p>
 <p><em>Shopping Cart:</em> Allows users to manage selected items and costs conveniently.</p>

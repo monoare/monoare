@@ -57,7 +57,7 @@
 <!----------------------------------- Project One------------------------------------>
 
 <div align="center">
-<h4><mark>Project-1: Vigor Vista</mark></h4>
+<h4>Project-1: Vigor Vista</h4>
 
 <p>The project, tentatively named "Vigor Vista," is a web application designed to cater to fitness enthusiasts, providing a platform for various fitness-related activities, community engagement, and personalized user experiences.</p>
 
@@ -75,7 +75,7 @@
 <!----------------------------------- Project Two------------------------------------>
 
 <div align="center">
-<mark>Project-2: FreelanceHub</mark>
+<h4>Project-2: FreelanceHub</h4>
 
 <p>FreelanceHub is a dynamic platform connecting freelancers and employers. Users can effortlessly post and apply for jobs, benefit from secure authentication, and manage their activities through a user-friendly dashboard. Categorized job listings and a transparent booking system streamline the freelancing process, creating a seamless and efficient experience for both freelancers and employers.</p>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
     
-<h4><mark>Project-3: Best Shop</mark></h4>
+<h4>Project-3: Best Shop</h4>
 
 <p>Best Shop is a Fashion E-commerce platform featuring secure user authentication, a detailed product catalog, dark mode toggling, a convenient shopping cart, and responsive design. With brand collections, dynamic data fetching, and user-friendly alerts, it serves as a versatile foundation for fashion enthusiasts and developers. The project's potential for future enhancements positions it as a valuable tool within the fashion industry.</p>
 
